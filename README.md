@@ -41,14 +41,21 @@ Loan_status-Loan approved (Y/N)
 # LIBRARIES
 
 ->pandas
+
 ->matplotlib
+
 ->seaborn
+
 ->scikit-learn
 
 # ALGORITHMS
+
 ->Logistic Regression
+
 ->Decision Tree
+
 ->Random Forest
+
 ->Extra Tree
 
 # Best Model Accuracy:79.16(Random Forest)
