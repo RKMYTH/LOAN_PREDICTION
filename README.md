@@ -9,22 +9,33 @@ This is a standard supervised classification task.A classification problem where
 
 The dataset consists of the following attributes:
 
-Atrribute           
-Significance
-Loan_id              Unique loan Id
-Gender               Male/female
-Married              Applicant married (Y/N)
-Dependents           Number of dependents
-Education            Applicant education (Graduate/ Under 
-                     graduate)
-Self-employed        Self employed (Y/N)
-ApplicantIncome      Applicant income
-CoapplicantIncome    Coapplicant income
-LoanAmount           Loan amount in thousands
-Loan_Amount_Term     Term of loan in months
-Credit_history       Credit history meet guidelines
-Property_area        Urban / Semi urban / Rural
-Loan_status          Loan approved (Y/N)
+Atrribute-Significance
+
+Loan_id-Unique loan Id
+
+Gender-Male/female
+
+Married-Applicant married (Y/N)
+
+Dependents-Number of dependents
+
+Education-Applicant education (Graduate/ Undergraduate)
+
+Self-employed-Self employed (Y/N)
+
+ApplicantIncome-Applicant income
+
+CoapplicantIncome-Coapplicant income
+
+LoanAmount-Loan amount in thousands
+
+Loan_Amount_Term-Term of loan in months
+
+Credit_history-Credit history meet guidelines
+
+Property_area-Urban / Semi urban / Rural
+
+Loan_status-Loan approved (Y/N)
 
 
 LIBRARIES
