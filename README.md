@@ -9,11 +9,11 @@ This is a standard supervised classification task.A classification problem where
 
 The dataset consists of the following attributes:
 
-Atrribute-Significance
+Atrribute-  Significance
 
-Loan_id-Unique loan Id
+Loan_id-    Unique loan Id
 
-Gender-Male/female
+Gender-     Male/female
 
 Married-Applicant married (Y/N)
 
